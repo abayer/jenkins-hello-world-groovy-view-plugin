@@ -1,4 +1,4 @@
-import hudson.taglibs.LayoutTagLib
+import lib.LayoutTagLib
 
 l=namespace(LayoutTagLib)
 t=namespace("/lib/hudson")
